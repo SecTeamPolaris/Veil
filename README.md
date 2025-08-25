@@ -5,4 +5,4 @@ The experiments are evaluated in VirAI Cloud, under the following platform: 2 GP
 
 
 ## Code 
-The simulation of Mirage is wiritten in Python 3.10. 
+The simulation of Veil is wiritten in Python 3.10. 
