@@ -1,5 +1,5 @@
 # Veil: Online Traffic Camouflage via Deep Reinforcement Learning  
-This repository contains the official implementation of **Veil**, an asymmetric packet-block (PB)-level traffic defender designed to evade encrypted network traffic analyzers. The work is based on the paper *"Online Traffic Camouflage against Network Analyzers via Deep Reinforcement Learning"* (TNSM submission, file: `TNSM__Online_Traffic_Camouflage_against_Network_Analyzers_via_Deep_Reinforcement_Learning__R1_-2.pdf`).  
+This repository contains the official implementation of **Veil**, an asymmetric packet-block (PB)-level traffic defender designed to evade encrypted network traffic analyzers. 
 
 
 ## Overview  
