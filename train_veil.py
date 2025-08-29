@@ -411,8 +411,8 @@ def main():
     os.makedirs(model_save_dir, exist_ok=True)
     num_classes = len(os.listdir(data_dir))
     top_k_features = 20
-    env_sim_epochs = 1
-    dqn_epochs = 1
+    env_sim_epochs = 200
+    dqn_epochs = 350
     
 
     preprocessor = TrafficPreprocessor(top_k=top_k_features)
